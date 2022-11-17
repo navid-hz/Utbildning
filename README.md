@@ -3,7 +3,7 @@
 
 [My Github](https://github.com/navid-hz)
 
-![Gitub Logo](https://github.githubassets.com/images/modules/logos_page/Octocat.png)
+![Gitub Logo](<img src="https://github.githubassets.com/images/modules/logos_page/Octocat.png" width="20px" higth="20px"/>)
 
 
 
